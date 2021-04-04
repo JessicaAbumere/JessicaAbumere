@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my page. I am currently learning HTML, CSS, and JavaScript so that I can become a Front-End Developer.
 
-<!--Welcome to my page, I am currently learning HTML, CSS, and JavaScript so that I can become a Front-End Developer.>
+<!--
 **JessicaAbumere/JessicaAbumere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
